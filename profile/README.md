@@ -1,4 +1,4 @@
-![HFD.gg Banner Image](https://legal-loli.art/JMyWtw77FU.jpg)
+<!-- ![HFD.gg Banner Image](https://legal-loli.art/JMyWtw77FU.jpg) -->
 
 # Coming Soon
 We are actively developing HFD.
